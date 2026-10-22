@@ -2,6 +2,10 @@
 
 **[Unduh ZIP proyek](https://github.com/Adennyzen/Tugas/raw/refs/heads/main/praktikum-8/p8-integrasi.zip)**
 
+**[Unduh panduan terminal dalam Word](https://github.com/Adennyzen/Tugas/raw/refs/heads/main/praktikum-8/Panduan_Terminal_Praktikum_8_Windows.docx)**
+
+Panduan Word menjelaskan pembukaan CMD, perintah setiap terminal beserta artinya, versi utama dengan lima terminal, latihan tambahan dengan consumer keuangan, CMD pengujian, pemulihan layanan, serta cara menghentikan dan menjalankan kembali proyek di Windows.
+
 Proyek mengikuti modul praktikum: Flask, XML-RPC, RabbitMQ, serta consumer notifikasi dan stok. Kode dan tampilan utama mengikuti contoh modul; empat latihan mandiri disertakan dalam folder terpisah `latihan-tambahan/`.
 
 ## Cara mencoba di laptop
